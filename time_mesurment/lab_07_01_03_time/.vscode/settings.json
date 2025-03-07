@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "calc_functions.h": "c",
+        "io_functions.h": "c",
+        "alloc_functions.h": "c",
+        "check.h": "c",
+        "errors.h": "c",
+        "sort_functions.h": "c",
+        "func_check.h": "c",
+        "stdio.h": "c",
+        "exitcodes.h": "c",
+        "mesurment_functions.h": "c"
+    }
+}

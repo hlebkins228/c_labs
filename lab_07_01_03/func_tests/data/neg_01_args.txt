@@ -1,0 +1,1 @@
+func_tests/data/hello output_tmp.txt

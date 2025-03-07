@@ -1,0 +1,12 @@
+carrot
+10
+5.342
+apple
+2.5
+5.3
+quicksilver
+20
+kdfghkjdfhgkljdhflgjhdfglkjhdflkgjhdkfjghkdjfghj
+copper
+24.456
+3

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "calc_functions.h": "c",
+        "alloc_functions.h": "c",
+        "io_functions.h": "c",
+        "matrix_calc_functions.h": "c",
+        "matrix_alloc_functions.h": "c",
+        "exitcodes.h": "c"
+    }
+}

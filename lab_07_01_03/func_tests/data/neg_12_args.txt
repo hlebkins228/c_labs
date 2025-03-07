@@ -1,0 +1,1 @@
+func_tests/data/neg_12_in.txt output_tmp.txt f

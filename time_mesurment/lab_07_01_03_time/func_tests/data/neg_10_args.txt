@@ -1,0 +1,1 @@
+func_tests/data/neg_10_in.txt output_tmp.txt too many arguments
